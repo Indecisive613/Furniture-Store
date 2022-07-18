@@ -17,9 +17,9 @@ The components for this project as follows:
 * src - Folder containing files imported by index.html and checkout.html.
   * main.js - Script that programs the behavior of index.html.
   * checkout.js - Script that programs the behavior of checkout.html.
-  * data.js - Script containing shopItemsData, the array of objects which contains information for each piece of furniture. 
+  * data.js - Script containing shopItemsData, the array of objects which contains information about each piece of furniture. 
   * style.css - Sytlesheet used to format both html pages.
-* images - Folder containing the images that correspond with each products.
+* images - Folder containing the images that correspond with each product.
 
 ## Credits 
 Developer: Fiona Cheng  
