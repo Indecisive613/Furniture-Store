@@ -10,5 +10,5 @@ This project uses HTML, CSS, and JavaScript.
 (detailed description with screenshots?)
 
 ## Credits 
-Developer: Fiona Cheng 
+Developer: Fiona Cheng  
 Last Edit: July 18, 2022
