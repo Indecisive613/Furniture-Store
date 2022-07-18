@@ -1,4 +1,4 @@
-#Furniture Store 
+# Furniture Store 
 
 ## Overview 
 Furniture Store is an a website where users can make fake furniture purchases.
