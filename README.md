@@ -14,6 +14,12 @@ This project uses HTML, CSS, and JavaScript.
 ## Components
 The components for this project as follows:
 * index.html
+* checkout.html
+* src
+  * main.js
+  * checkout.js
+  * data.js
+* images 
 
 ## Credits 
 Developer: Fiona Cheng  
