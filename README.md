@@ -22,4 +22,4 @@ This project uses HTML, CSS, and JavaScript.
 
 ## Credits 
 Developer: Fiona Cheng  
-Last Edit: July 18, 2022
+Last Edit: July 26, 2022
