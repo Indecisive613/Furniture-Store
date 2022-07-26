@@ -11,7 +11,6 @@ Clicking the shopping cart icon in the top right hand corner brings the user to 
 This project uses HTML, CSS, and JavaScript.
 
 ## Components
-The components for this project as follows:
 * index.html - Defines the web structure for the homepage.
 * checkout.html - Defines the web structure for the checkout page.
 * src - Folder containing files imported by index.html and checkout.html.
